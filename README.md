@@ -1,4 +1,5 @@
 # LUCINDA
+##  - Moved this Repository to [opencitations/lucinda](https://github.com/opencitations/lucinda) -
 ### Is an RDF data browser Javascript-based application.  
 
 This idea came out with regard to the [OpenCitations](http://opencitations.net/) project, which contains an open repository of scholarly citation data in RDF format, we would like to make accesible for any user to search and explore. 
